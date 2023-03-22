@@ -16,4 +16,4 @@ You may also see any lint errors in the console.
 
 ### Deployment
 
-This app is deployed here: [https://algorithmsvisualizer-app.herokuapp.com/](https://algorithmsvisualizer-app.herokuapp.com/)
+This app is deployed here: [https://algorithms-visualizers.vercel.app/)
